@@ -1,0 +1,17 @@
+.env
+.venv
+log/*.txt
+log/*.log
+__pycache__
+docs/*.txt
+docs/*.clip
+docs/index/**
+project/*.md
+.vscode
+venv
+creds/*
+src/vectordb.rar
+docs/ingestion/data.txt
+.cursorrules
+
+og/
